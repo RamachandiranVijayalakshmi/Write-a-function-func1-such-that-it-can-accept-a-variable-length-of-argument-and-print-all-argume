@@ -1,0 +1,1 @@
+# Write-a-function-func1-such-that-it-can-accept-a-variable-length-of-argument-and-print-all-argume
